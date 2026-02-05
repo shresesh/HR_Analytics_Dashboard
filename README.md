@@ -28,4 +28,4 @@ This Power BI project provides a comprehensive analysis of employee attendance a
 3. Use the date slicers (Apr 22 - Jun 22) or employee filters to explore specific workforce trends.
 
 ---
-**Project by Shreyas Seshadri ** *Connect with me on [LinkedIn](https://www.linkedin.com/in/shresesh/)*
+**Project by Shreyas Seshadri** * *Connect with me on [LinkedIn](https://www.linkedin.com/in/shresesh/)*
